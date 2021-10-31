@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Fundamentos.CQRS.Web</AssemblyName>
+    <RootNamespace>Fundamentos.CQRS.Web</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fundamentos.Bus.Core\Fundamentos.CQRS.Core.csproj" />
+    <ProjectReference Include="..\Fundamentos.Bus.Data\Fundamentos.CQRS.Vendas.Data.csproj" />
+    <ProjectReference Include="..\Fundamentos.Bus.Domain\Fundamentos.CQRS.Vendas.Domain.csproj" />
+    <ProjectReference Include="..\Fundamentos.Bus.Vendas\Fundamentos.CQRS.Vendas.Application.csproj" />
+  </ItemGroup>
+
+</Project>

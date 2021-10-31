@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Fundamentos.Bus.Vendas.Application</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fundamentos.Bus.Core\Fundamentos.CQRS.Core.csproj" />
+    <ProjectReference Include="..\Fundamentos.Bus.Domain\Fundamentos.CQRS.Vendas.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

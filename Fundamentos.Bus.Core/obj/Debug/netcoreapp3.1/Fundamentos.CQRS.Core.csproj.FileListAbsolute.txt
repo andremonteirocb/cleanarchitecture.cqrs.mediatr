@@ -1,0 +1,9 @@
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\bin\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.deps.json
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\bin\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\bin\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.pdb
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.AssemblyInfoInputs.cache
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.AssemblyInfo.cs
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.csproj.CoreCompileInputs.cache
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Core\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.pdb

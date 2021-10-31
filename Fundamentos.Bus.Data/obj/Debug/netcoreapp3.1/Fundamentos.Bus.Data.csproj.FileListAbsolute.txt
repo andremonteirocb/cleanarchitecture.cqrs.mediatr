@@ -1,0 +1,17 @@
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Data.csprojAssemblyReference.cache
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Data.AssemblyInfoInputs.cache
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Data.AssemblyInfo.cs
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Data.csproj.CoreCompileInputs.cache
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Data.deps.json
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Data.runtimeconfig.json
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Data.runtimeconfig.dev.json
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Data.dll
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Data.pdb
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Core.dll
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.dll
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Core.pdb
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.pdb
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Data.csproj.CopyComplete
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Data.dll
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Data.pdb
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Data\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Data.genruntimeconfig.cache

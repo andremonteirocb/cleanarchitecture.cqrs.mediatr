@@ -1,0 +1,12 @@
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.csprojAssemblyReference.cache
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.AssemblyInfo.cs
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.deps.json
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.dll
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.pdb
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Core.dll
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Core.pdb
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.csproj.CopyComplete
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.dll
+C:\Users\andre\Dropbox\Programação\ASP.Net\Projetos\Estudos\Fundamentos.Bus\Fundamentos.Bus.Domain\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Domain.pdb

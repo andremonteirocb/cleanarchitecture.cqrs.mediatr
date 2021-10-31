@@ -1,0 +1,15 @@
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Vendas.Application.deps.json
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Vendas.Application.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\bin\Debug\netcoreapp3.1\Fundamentos.Bus.Vendas.Application.pdb
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\bin\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\bin\Debug\netcoreapp3.1\Fundamentos.CQRS.Vendas.Domain.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\bin\Debug\netcoreapp3.1\Fundamentos.CQRS.Core.pdb
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\bin\Debug\netcoreapp3.1\Fundamentos.CQRS.Vendas.Domain.pdb
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Vendas.Application.csproj.AssemblyReference.cache
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Vendas.Application.AssemblyInfo.cs
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\obj\Debug\netcoreapp3.1\Fundamentos.CQRS.Vendas.Application.csproj.CopyComplete
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Vendas.Application.dll
+C:\Users\andre.monteiro\Dropbox\Programação\ASP.Net\Estudos\Fundamentos.CQRS\Fundamentos.Bus.Vendas\obj\Debug\netcoreapp3.1\Fundamentos.Bus.Vendas.Application.pdb
