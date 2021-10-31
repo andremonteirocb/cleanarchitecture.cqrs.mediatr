@@ -11,15 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApps", "WebApps", "{9D14
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vendas", "Vendas", "{D4484187-6D2B-4957-A474-C8AB3CA82A56}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{0FA00739-A038-4292-8815-C407F711A905}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fundamentos.CQRS.Core", "Fundamentos.CQRS.Core", "{0FA00739-A038-4292-8815-C407F711A905}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.CQRS.Vendas.Data", "Fundamentos.Bus.Data\Fundamentos.CQRS.Vendas.Data.csproj", "{106A3D9D-B627-496B-9364-DB4475DE437A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.CQRS.Vendas.Data", "Fundamentos.CQRS.Data\Fundamentos.CQRS.Vendas.Data.csproj", "{106A3D9D-B627-496B-9364-DB4475DE437A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.CQRS.Vendas.Application", "Fundamentos.Bus.Vendas\Fundamentos.CQRS.Vendas.Application.csproj", "{47648589-B2E3-4646-AC54-9304D6F8A060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.CQRS.Vendas.Application", "Fundamentos.CQRS.Vendas\Fundamentos.CQRS.Vendas.Application.csproj", "{47648589-B2E3-4646-AC54-9304D6F8A060}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.CQRS.Vendas.Domain", "Fundamentos.Bus.Domain\Fundamentos.CQRS.Vendas.Domain.csproj", "{459DCF31-4C16-4FF5-BD00-BB9DE1677F29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.CQRS.Vendas.Domain", "Fundamentos.CQRS.Domain\Fundamentos.CQRS.Vendas.Domain.csproj", "{459DCF31-4C16-4FF5-BD00-BB9DE1677F29}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.CQRS.Core", "Fundamentos.Bus.Core\Fundamentos.CQRS.Core.csproj", "{D9A16509-439F-40D5-9FE3-8F8429B64087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentos.CQRS.Core", "Fundamentos.CQRS.Core\Fundamentos.CQRS.Core.csproj", "{8C7F6EFC-1016-4EA5-91AF-4F76F5670796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +43,10 @@ Global
 		{459DCF31-4C16-4FF5-BD00-BB9DE1677F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{459DCF31-4C16-4FF5-BD00-BB9DE1677F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{459DCF31-4C16-4FF5-BD00-BB9DE1677F29}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D9A16509-439F-40D5-9FE3-8F8429B64087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9A16509-439F-40D5-9FE3-8F8429B64087}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9A16509-439F-40D5-9FE3-8F8429B64087}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9A16509-439F-40D5-9FE3-8F8429B64087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7F6EFC-1016-4EA5-91AF-4F76F5670796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7F6EFC-1016-4EA5-91AF-4F76F5670796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7F6EFC-1016-4EA5-91AF-4F76F5670796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7F6EFC-1016-4EA5-91AF-4F76F5670796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,7 +58,7 @@ Global
 		{106A3D9D-B627-496B-9364-DB4475DE437A} = {D4484187-6D2B-4957-A474-C8AB3CA82A56}
 		{47648589-B2E3-4646-AC54-9304D6F8A060} = {D4484187-6D2B-4957-A474-C8AB3CA82A56}
 		{459DCF31-4C16-4FF5-BD00-BB9DE1677F29} = {D4484187-6D2B-4957-A474-C8AB3CA82A56}
-		{D9A16509-439F-40D5-9FE3-8F8429B64087} = {0FA00739-A038-4292-8815-C407F711A905}
+		{8C7F6EFC-1016-4EA5-91AF-4F76F5670796} = {0FA00739-A038-4292-8815-C407F711A905}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {89B777FF-E0F6-4B38-9E91-1D406FAF2598}
