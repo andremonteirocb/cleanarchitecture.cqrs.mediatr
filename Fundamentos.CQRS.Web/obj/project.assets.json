@@ -5956,23 +5956,23 @@
     },
     "Fundamentos.Bus.Vendas.Application/1.0.0": {
       "type": "project",
-      "path": "../Fundamentos.Bus.Vendas/Fundamentos.CQRS.Vendas.Application.csproj",
-      "msbuildProject": "../Fundamentos.Bus.Vendas/Fundamentos.CQRS.Vendas.Application.csproj"
+      "path": "../Fundamentos.CQRS.Vendas/Fundamentos.CQRS.Vendas.Application.csproj",
+      "msbuildProject": "../Fundamentos.CQRS.Vendas/Fundamentos.CQRS.Vendas.Application.csproj"
     },
     "Fundamentos.CQRS.Core/1.0.0": {
       "type": "project",
-      "path": "../Fundamentos.Bus.Core/Fundamentos.CQRS.Core.csproj",
-      "msbuildProject": "../Fundamentos.Bus.Core/Fundamentos.CQRS.Core.csproj"
+      "path": "../Fundamentos.CQRS.Core/Fundamentos.CQRS.Core.csproj",
+      "msbuildProject": "../Fundamentos.CQRS.Core/Fundamentos.CQRS.Core.csproj"
     },
     "Fundamentos.CQRS.Vendas.Data/1.0.0": {
       "type": "project",
-      "path": "../Fundamentos.Bus.Data/Fundamentos.CQRS.Vendas.Data.csproj",
-      "msbuildProject": "../Fundamentos.Bus.Data/Fundamentos.CQRS.Vendas.Data.csproj"
+      "path": "../Fundamentos.CQRS.Data/Fundamentos.CQRS.Vendas.Data.csproj",
+      "msbuildProject": "../Fundamentos.CQRS.Data/Fundamentos.CQRS.Vendas.Data.csproj"
     },
     "Fundamentos.CQRS.Vendas.Domain/1.0.0": {
       "type": "project",
-      "path": "../Fundamentos.Bus.Domain/Fundamentos.CQRS.Vendas.Domain.csproj",
-      "msbuildProject": "../Fundamentos.Bus.Domain/Fundamentos.CQRS.Vendas.Domain.csproj"
+      "path": "../Fundamentos.CQRS.Domain/Fundamentos.CQRS.Vendas.Domain.csproj",
+      "msbuildProject": "../Fundamentos.CQRS.Domain/Fundamentos.CQRS.Vendas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6017,17 +6017,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.Bus.Core\\Fundamentos.CQRS.Core.csproj": {
-              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.Bus.Core\\Fundamentos.CQRS.Core.csproj"
+            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.CQRS.Core\\Fundamentos.CQRS.Core.csproj": {
+              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.CQRS.Core\\Fundamentos.CQRS.Core.csproj"
             },
-            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.Bus.Data\\Fundamentos.CQRS.Vendas.Data.csproj": {
-              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.Bus.Data\\Fundamentos.CQRS.Vendas.Data.csproj"
+            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.CQRS.Data\\Fundamentos.CQRS.Vendas.Data.csproj": {
+              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.CQRS.Data\\Fundamentos.CQRS.Vendas.Data.csproj"
             },
-            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.Bus.Domain\\Fundamentos.CQRS.Vendas.Domain.csproj": {
-              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.Bus.Domain\\Fundamentos.CQRS.Vendas.Domain.csproj"
+            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.CQRS.Domain\\Fundamentos.CQRS.Vendas.Domain.csproj": {
+              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.CQRS.Domain\\Fundamentos.CQRS.Vendas.Domain.csproj"
             },
-            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.Bus.Vendas\\Fundamentos.CQRS.Vendas.Application.csproj": {
-              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.Bus.Vendas\\Fundamentos.CQRS.Vendas.Application.csproj"
+            "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.CQRS.Vendas\\Fundamentos.CQRS.Vendas.Application.csproj": {
+              "projectPath": "C:\\Users\\andre.monteiro\\Dropbox\\Programação\\ASP.Net\\Estudos\\Fundamentos.CQRS\\Fundamentos.CQRS.Vendas\\Fundamentos.CQRS.Vendas.Application.csproj"
             }
           }
         }

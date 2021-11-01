@@ -12,10 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Fundamentos.Bus.Core\Fundamentos.CQRS.Core.csproj" />
-    <ProjectReference Include="..\Fundamentos.Bus.Data\Fundamentos.CQRS.Vendas.Data.csproj" />
-    <ProjectReference Include="..\Fundamentos.Bus.Domain\Fundamentos.CQRS.Vendas.Domain.csproj" />
-    <ProjectReference Include="..\Fundamentos.Bus.Vendas\Fundamentos.CQRS.Vendas.Application.csproj" />
+    <ProjectReference Include="..\Fundamentos.CQRS.Core\Fundamentos.CQRS.Core.csproj" />
+    <ProjectReference Include="..\Fundamentos.CQRS.Data\Fundamentos.CQRS.Vendas.Data.csproj" />
+    <ProjectReference Include="..\Fundamentos.CQRS.Domain\Fundamentos.CQRS.Vendas.Domain.csproj" />
+    <ProjectReference Include="..\Fundamentos.CQRS.Vendas\Fundamentos.CQRS.Vendas.Application.csproj" />
   </ItemGroup>
 
 </Project>
