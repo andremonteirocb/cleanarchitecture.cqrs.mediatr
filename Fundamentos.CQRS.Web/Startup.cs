@@ -11,6 +11,7 @@ using Fundamentos.CQRS.Vendas.Data;
 using Fundamentos.CQRS.Web.Setup;
 using AutoMapper;
 using Fundamentos.CQRS.Vendas.Application.AutoMapper;
+using Fundamentos.CQRS.Vendas.Application.Commands;
 
 namespace Fundamentos.CQRS
 {
@@ -36,7 +37,7 @@ namespace Fundamentos.CQRS
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddAutoMapper(typeof(DomainToViewModelMappingProfile), typeof(ViewModelToDomainMappingProfile));
-            services.AddMediatR(typeof(Startup));
+            services.AddMediatR(typeof(PedidoCommandHandler));
             services.RegisterServices();
             services.AddControllersWithViews();
         }

@@ -23,8 +23,10 @@ namespace Fundamentos.CQRS.Web.Setup
             // Vendas
             services.AddScoped<IEntityRepository, EntityRepository>();
             services.AddScoped<VendasContext>();
-            services.AddScoped<IRequestHandler<IniciarSistemaCommand, bool>, PedidoCommandHandler>();
-            services.AddScoped<INotificationHandler<SistemaIniciadoEvent>, PedidoEventHandler>();
+
+            //sem utilizar a biblioteca meditr
+            //services.AddScoped<IRequestHandler<IniciarSistemaCommand, bool>, PedidoCommandHandler>();
+            //services.AddScoped<INotificationHandler<SistemaIniciadoEvent>, PedidoEventHandler>();
         }
     }
 }
